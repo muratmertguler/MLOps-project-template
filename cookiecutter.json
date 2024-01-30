@@ -2,7 +2,7 @@
     "full_name": "Murat Mert Güler",
     "email": "muratmertguler@yahoo.com",
     "git_username": "Murat Mert Güler",
-    "project_name": "Python MLOps",
+    "project_name": "Python MLOps Project",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
     "project_short_description": "Python Boilerplate contains all the boilerplate you need to create a Data Science Project.",
     "version": "0.1.0",
